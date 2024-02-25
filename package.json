@@ -22,9 +22,6 @@
   "devDependencies": {
     "nodeunit-x": "0.15.0"
   },
-  "dependencies": {
-    "re2": "1.20.7"
-  },
   "keywords": [
     "parser",
     "mail",
